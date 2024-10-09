@@ -1,0 +1,34 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+.image{
+  padding: 4% 6%;
+  font-size: 13px;
+}
+.header{
+  width: 100%;
+  min-height: 100vh;
+  background-image: url(./universtiy.webp);
+  background-position: center;
+  background-size: cover;
+}
+.nav-links{
+  display: flex;
+  justify-content: space-between;
+}
+.nav-links ul{
+  display: flex;
+  padding: 2% 6%;
+  display: inline-block;
+  justify-content: space-between;
+}
+.nav-links li a{
+  text-decoration: none;
+  font-size: 13px;
+  color: #fff;
+}
+.nav-links li{
+  list-style: none;
+  margin-left: 5%;
+} */
